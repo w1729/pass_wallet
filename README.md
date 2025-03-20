@@ -47,7 +47,7 @@ With its **plug-and-play compatibility** via WalletConnect, PASS WALLET removes 
 
 # PASS WALLET AI Agent
 
-Injective comes with a built-in AI agent designed to assist users with various tasks seamlessly. This AI-powered assistant enables users to interact using natural language, making transactions and other blockchain operations much more intuitive. With PASS WALLET, users no longer need to switch between multiple platforms for different DeFi interactions. Instead, they can perform everything directly from the PASS WALLET interface, simplifying the overall experience and making blockchain more accessible to everyone
+Passwallet comes with a built-in AI agent designed to assist users with various tasks seamlessly. This AI-powered assistant enables users to interact using natural language, making transactions and other blockchain operations much more intuitive. With PASS WALLET, users no longer need to switch between multiple platforms for different DeFi interactions. Instead, they can perform everything directly from the PASS WALLET interface, simplifying the overall experience and making blockchain more accessible to everyone
 
 ### Secure Account Creation with Passkeys
 
@@ -96,5 +96,3 @@ The Smart Account **is not deployed immediately** when the passkey is generated.
 4. **Scalable Infrastructure**: The deterministic address allows users to share their wallet address confidently, knowing the contract will be deployed when needed without changing the address.
 
 By integrating **ERC-4337 Smart Accounts**, PASS WALLET bridges the gap between **usability and security**, making blockchain interactions as simple as traditional Web2 logins while maintaining the benefits of decentralization and user control. This approach ensures that **any user, technical or not, can interact with the blockchain seamlessly** and without the need for extensive setup or technical knowledge.
-
-[Demo](https://youtu.be/RaPCSm48eNo)
